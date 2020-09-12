@@ -5,6 +5,11 @@
     <option name="JAVADOC_INFO_DELAY" value="3000" />
     <option name="COMPLETION_CASE_SENSITIVE" value="1" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
@@ -14,7 +19,14 @@
     <option name="IS_CARET_INSIDE_TABS" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+    <option name="enableJavaToKotlinConversion" value="false" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
