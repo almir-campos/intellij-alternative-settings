@@ -8,6 +8,7 @@
   <action id="ConfigureIcs">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt r" />
   </action>
+  <action id="Console.TableResult.FindInGrid" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="d" />
   </action>
@@ -17,14 +18,15 @@
   <action id="ExportImportGroup">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="i" />
   </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="f" />
-  </action>
+  <action id="Find" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="p" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="u" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="f" />
   </action>
   <action id="MergeSettings">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="r" />
@@ -44,6 +46,7 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="p" />
   </action>
