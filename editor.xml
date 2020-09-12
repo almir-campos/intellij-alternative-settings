@@ -1,0 +1,23 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="1" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="3000" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+</application>
