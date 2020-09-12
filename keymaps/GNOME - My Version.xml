@@ -23,6 +23,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="u" />
   </action>
+  <action id="MergeSettings">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="r" />
+  </action>
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="m" />
   </action>
@@ -34,7 +37,7 @@
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="r" />
   </action>
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="alt s" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="g" />
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
