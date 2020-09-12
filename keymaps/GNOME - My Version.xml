@@ -18,7 +18,9 @@
   <action id="ExportImportGroup">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="i" />
   </action>
-  <action id="Find" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="h" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="p" />
   </action>
