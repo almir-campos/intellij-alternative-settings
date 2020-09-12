@@ -1,4 +1,7 @@
 <keymap version="1" name="GNOME - My Version" parent="Default for GNOME">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
+  </action>
   <action id="CloudConfigAction">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="j" />
   </action>
@@ -41,8 +44,14 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="p" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="com.karateca.jstoolbox.toconstructor.GoToConstructorAction">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="c" />
