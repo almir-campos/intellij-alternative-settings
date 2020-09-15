@@ -19,6 +19,9 @@
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="ExportImportGroup">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="i" />
   </action>
@@ -33,6 +36,9 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="f" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="JupyterSelectCellAboveAction" />
   <action id="JupyterSelectCellBelowAction" />
@@ -49,6 +55,9 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="RecentFiles" />
   <action id="Resume">
