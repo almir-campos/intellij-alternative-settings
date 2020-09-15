@@ -84,8 +84,14 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="alt v" second-keystroke="m" />
+  </action>
   <action id="com.karateca.jstoolbox.toconstructor.GoToConstructorAction">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
+  <action id="com.karateca.jstoolbox.torelated.GoToViewAction">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="c" />
