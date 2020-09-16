@@ -72,6 +72,9 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="RecentFiles" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="c" />
   </action>
