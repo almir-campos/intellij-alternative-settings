@@ -84,7 +84,8 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="c" />
   </action>
-  <action id="Run">
+  <action id="Run" />
+  <action id="RunClass">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="r" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">

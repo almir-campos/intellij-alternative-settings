@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="wav" type="Native" />
       <mapping ext="mp3" type="Native" />
+      <mapping pattern="FilesLost!" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
