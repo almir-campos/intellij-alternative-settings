@@ -9,7 +9,13 @@
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
-  <template name="did" value="&lt;div id=&quot;$END$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div id=&quot;&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="dii" value="&lt;div id=&quot;$END$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div id=&quot;&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="TAB" expression="\t" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="dic" value="&lt;div class=&quot;$END$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div class=&quot;&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="TAB" expression="\t" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="HTML" value="true" />

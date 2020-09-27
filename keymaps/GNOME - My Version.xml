@@ -11,6 +11,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt w" second-keystroke="t" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
@@ -21,6 +22,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="d" />
   </action>
+  <action id="Diff.NextChange" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -51,6 +53,7 @@
   </action>
   <action id="JupyterSelectCellAboveAction" />
   <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="ModuleSettings">
@@ -61,6 +64,12 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="d" />
@@ -74,6 +83,7 @@
   <action id="NewStylesheetFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="s" />
   </action>
+  <action id="NextTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
@@ -94,6 +104,8 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="s" />
   </action>
