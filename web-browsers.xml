@@ -2,7 +2,7 @@
   <component name="WebBrowsersConfiguration" default="first">
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME">
       <settings>
-        <command-line-options>--auto-open-devtools-for-tabs</command-line-options>
+        <command-line-options>--auto-open-devtools-for-tabs --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp</command-line-options>
         <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
       </settings>
     </browser>
