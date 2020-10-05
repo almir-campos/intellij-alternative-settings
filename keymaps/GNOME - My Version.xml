@@ -18,14 +18,20 @@
   <action id="CloudConfigAction">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="j" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.FindInGrid" />
   <action id="Debug" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="d" />
   </action>
   <action id="Diff.NextChange" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
@@ -37,6 +43,7 @@
   <action id="ExportImportGroup">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="i" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="h" />
   </action>
@@ -99,12 +106,14 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="r" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
@@ -122,6 +131,7 @@
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="alt v" second-keystroke="m" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="com.karateca.jstoolbox.toconstructor.GoToConstructorAction">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
   </action>
@@ -131,4 +141,5 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="c" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
