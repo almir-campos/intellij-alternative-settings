@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="simplest-api-tvmaze" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/my/courses/spb/unit-14/14.3/study-review/simplest-api/run-server.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/my/courses/spb/unit-14/14.3/study-review/simplest-api" />
+    </exec>
+  </tool>
+</toolSet>
