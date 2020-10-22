@@ -13,13 +13,23 @@
     <variable name="TAB" expression="\t" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="div.T" value="&lt;div class=&quot;$T$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div class=&quot;$T$&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="dic.T" value="&lt;div class=&quot;$T$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div class=&quot;$T$&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="T" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TAB" expression="\t" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="diic.T" value="&lt;div id=&quot;$END$&quot; class=&quot;$T$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div id=&quot;$END$&quot;class=&quot;$T$&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="T" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TAB" expression="\t" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
