@@ -15,6 +15,10 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
+  </action>
   <action id="CloudConfigAction">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="j" />
   </action>
@@ -106,9 +110,8 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="RecentFiles" />
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
-  </action>
+  <action id="RemoteHostView.Rename" />
+  <action id="RenameElement" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="c" />
   </action>
