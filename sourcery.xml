@@ -3,6 +3,6 @@
     <option name="pluginVersion" value="0.8.2" />
     <option name="sourceryConfigFolder" value="$USER_HOME$/.config/sourcery" />
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/lib/linux/sourcery" />
-    <option name="sourceryVersion" value="0.8.2" />
+    <option name="sourceryVersion" value="Unknown" />
   </component>
 </application>

@@ -13,6 +13,28 @@
     <entry key="actionSystem.secondKeystrokeAutoPopupEnabled" value="true" />
     <entry key="allow.dialog.based.popups" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="database.view.show.mini.cat" value="false" />
+    <entry key="ide.completion.show.visibility.icon" value="true" />
+    <entry key="ide.find.show.replacement.hint.for.simple.regexp" value="true" />
+    <entry key="ide.images.show.grid" value="true" />
+    <entry key="ide.images.show.grid.after.every.x.pixels" value="50" />
+    <entry key="ide.project.loading.show.last.state" value="true" />
+    <entry key="ide.service.view.show.ssh.connections" value="true" />
+    <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+    <entry key="ide.showIndexRebuildMessage" value="true" />
+    <entry key="ide.tab.tooltip.module" value="true" />
+    <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="ide.transparency.mode.for.windows" value="true" />
+    <entry key="java.completion.show.constructors" value="true" />
+    <entry key="navBar.show.icons" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="terminal.buffer.max.lines.count" value="50000" />
+    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="undo.globalUndoLimit" value="1000" />
+    <entry key="use.tabbed.welcome.screen" value="true" />
+    <entry key="windows.jumplist" value="true" />
+    <entry key="ide.dnd.textHints" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
