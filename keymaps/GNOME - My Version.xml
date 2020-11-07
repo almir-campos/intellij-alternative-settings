@@ -132,6 +132,9 @@
     <keyboard-shortcut first-keystroke="alt b" second-keystroke="s" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowRegistry">
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="r" />
+  </action>
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="s" />
