@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mp3" type="Native" />
       <mapping ext="wav" type="Native" />
+      <mapping pattern="CALIBRATION-LUA" type="PLAIN_TEXT" />
       <mapping pattern="FilesLost!" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
