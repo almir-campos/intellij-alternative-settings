@@ -198,9 +198,9 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="python">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <option name="librariesFilterEnabled" value="true" />
         </configuration>
       </debugger>
     </debuggers>
