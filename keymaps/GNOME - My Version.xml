@@ -105,6 +105,10 @@
   <action id="NewStylesheetFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="s" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
   <action id="NextTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
