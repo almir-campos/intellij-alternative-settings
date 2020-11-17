@@ -6,16 +6,20 @@
         <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
       </settings>
     </browser>
-    <browser id="f52b88ff-4a4b-479b-83eb-04f14d25a9e4" name="Firefox Dev Tools" family="FIREFOX" path="/Applications/ffx-devtools.app" active="false" />
+    <browser id="09dff990-f500-46d5-98a3-b7407056e33e" name="Firefox" family="FIREFOX" active="false">
+      <settings>
+        <profile>prof.test</profile>
+      </settings>
+    </browser>
+    <browser id="f52b88ff-4a4b-479b-83eb-04f14d25a9e4" name="Firefox Dev Tools" family="FIREFOX" path="/Applications/ffx-devtools.app" active="false">
+      <settings>
+        <profile>prof.test</profile>
+      </settings>
+    </browser>
     <browser id="e5120d43-2c3f-47ef-9f26-65e539e05186" name="Safari" family="SAFARI" active="false" />
     <browser id="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" name="Opera" family="OPERA" active="false" />
     <browser id="b1b2ec2c-20bd-4ee2-89c4-616db004bcd4" name="Yandex" family="CHROME" path="Yandex" active="false" />
     <browser id="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" name="Internet Explorer" family="EXPLORER" active="false" />
     <browser id="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" name="Edge" family="EXPLORER" active="false" />
-    <browser id="09dff990-f500-46d5-98a3-b7407056e33e" name="Firefox" family="FIREFOX" path="/usr/bin/firefox">
-      <settings>
-        <profile>prof.test</profile>
-      </settings>
-    </browser>
   </component>
 </application>
