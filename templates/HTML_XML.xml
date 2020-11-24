@@ -10,7 +10,8 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="dii" value="&lt;div id=&quot;$END$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div id=&quot;&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="divi.T" value="&lt;div id=&quot;$T$&quot;&gt;&#10;$TAB$$END$&#10;&lt;/div&gt;" description="&lt;div id=&quot;&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="T" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TAB" expression="\t" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="HTML" value="true" />
