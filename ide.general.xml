@@ -35,7 +35,10 @@
     <entry key="windows.jumplist" value="true" />
     <entry key="ide.dnd.textHints" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="editor.show.special.chars" value="false" />
+    <entry key="debugger.show.values.inplace" value="true" />
+    <entry key="debugger.show.values.between.lines" value="true" />
+    <entry key="ide.show.progress.without.status.bar" value="false" />
+    <entry key="ide.find.enter.as.ok" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
