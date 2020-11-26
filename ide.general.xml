@@ -35,6 +35,7 @@
     <entry key="windows.jumplist" value="true" />
     <entry key="ide.dnd.textHints" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="editor.show.special.chars" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
