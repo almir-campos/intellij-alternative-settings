@@ -145,9 +145,6 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
-  <action id="TemplateProjectProperties">
-    <keyboard-shortcut first-keystroke="n" />
-  </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="alt b" second-keystroke="t" />
