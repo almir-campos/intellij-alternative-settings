@@ -6,6 +6,7 @@
       <mapping ext="wav" type="Native" />
       <mapping pattern="CALIBRATION-LUA" type="PLAIN_TEXT" />
       <mapping pattern="FilesLost!" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
