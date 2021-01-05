@@ -103,7 +103,7 @@
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="j" />
   </action>
   <action id="NewPythonFile">
-    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="p" />
   </action>
   <action id="NewStylesheetFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="s" />
