@@ -102,6 +102,9 @@
   <action id="NewJavaScriptFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="j" />
   </action>
+  <action id="NewPythonFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt p" />
+  </action>
   <action id="NewStylesheetFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="s" />
   </action>
