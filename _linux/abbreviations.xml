@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoNextBookmark">
+        <abbreviation name="nbk" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

@@ -1,0 +1,107 @@
+<keymap version="1" name="IntelliJ IDEA Classic (macOS) copy" parent="Mac OS X">
+  <action id="$Copy" />
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Up">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CopyGroup">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorCopy" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorRightWithSelection" />
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ModuleSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="ProblemsView.CopyProblemDescription" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Table-selectNextColumnExtendSelection" />
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="Tree-selectChildExtendSelection" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.CopyValue" />
+</keymap>

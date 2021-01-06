@@ -1,0 +1,17 @@
+<templateSet group="JavaScript">
+  <template name="jqo" value="$('$END$')" description="jQuery Object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jqot" value="$(this)." description="jQuery Object 'this'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="oncl" value="$('$END$').on( 'click', (e) =&gt; {&#10;    &#10;});" description="On Event" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
