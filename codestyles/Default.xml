@@ -2,6 +2,7 @@
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+  <option name="SOFT_MARGINS" value="9" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -47,6 +48,12 @@
       </value>
     </option>
   </JetCodeStyleSettings>
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
