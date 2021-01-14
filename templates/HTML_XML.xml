@@ -8,7 +8,6 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="divi" value="&lt;div id=&quot;$END$&quot;&gt;&#10;$TAB$&#10;&lt;/div&gt;" description="&lt;div id=&quot;&quot;&gt;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
