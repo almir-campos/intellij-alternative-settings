@@ -138,7 +138,9 @@
     <keyboard-shortcut first-keystroke="alt o" second-keystroke="r" />
   </action>
   <action id="ShowSearchHistory" />
-  <action id="ShowSettings" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="s" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleBookmark">
