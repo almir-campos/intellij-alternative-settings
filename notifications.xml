@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Angular CLI" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="CythonWarning" displayType="NONE" />
     <notification groupId="Enable google-java-format" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Plugin Error" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
