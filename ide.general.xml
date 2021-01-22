@@ -41,6 +41,8 @@
     <entry key="ide.show.progress.without.status.bar" value="false" />
     <entry key="ide.find.enter.as.ok" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="database.view.show.mini.cat" value="true" />
+    <entry key="editor.caret.width" value="4" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

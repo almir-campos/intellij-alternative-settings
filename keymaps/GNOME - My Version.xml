@@ -157,6 +157,9 @@
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="alt v" second-keystroke="m" />
   </action>
+  <action id="WelcomeScreen.Configure.Properties">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="p" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="com.karateca.jstoolbox.toconstructor.GoToConstructorAction">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
