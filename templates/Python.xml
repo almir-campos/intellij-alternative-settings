@@ -1,7 +1,8 @@
 <templateSet group="Python">
-  <template name="ky" value="&quot;$VAR0$&quot;: &quot;$VAR1$&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="ky" value="&quot;$VAR0$($K$)&quot;: &quot;$L$&quot;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="false" />
-    <variable name="VAR1" expression="capitalize($VAR0$)" defaultValue="" alwaysStopAt="false" />
+    <variable name="K" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="L" expression="uppercase(K)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
