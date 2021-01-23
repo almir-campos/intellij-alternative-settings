@@ -1,0 +1,10 @@
+<templateSet group="JSON">
+  <template name="ky" value="&quot;$VAR0$&quot;: &quot;$VAR1$&quot;," description="JSON key" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
