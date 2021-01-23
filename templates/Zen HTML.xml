@@ -6,6 +6,8 @@
     <variable name="ab" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
