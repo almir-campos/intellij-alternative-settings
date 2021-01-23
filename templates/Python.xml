@@ -6,4 +6,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="defi" value="def __init__(self, $END$):&#10;    self.&#10;    &#10;" description="def __init__" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
