@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="ky.K" value="&quot;$K$&quot;: &quot;$END$&quot;,  " description="Json or Dict Key" toReformat="true" toShortenFQNames="true">
+    <variable name="K" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
