@@ -203,6 +203,7 @@
       <debugger id="python">
         <configuration>
           <option name="librariesFilterEnabled" value="true" />
+          <option name="valuesPolicy" value="SYNC" />
           <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
