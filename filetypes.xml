@@ -6,6 +6,7 @@
       <mapping ext="wav" type="Native" />
       <mapping pattern="CALIBRATION-LUA" type="PLAIN_TEXT" />
       <mapping pattern="FilesLost!" type="PLAIN_TEXT" />
+      <mapping pattern="theme-01" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
