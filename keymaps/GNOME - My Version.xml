@@ -45,6 +45,15 @@
   <action id="Exit">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="h" />
