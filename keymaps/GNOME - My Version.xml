@@ -177,5 +177,8 @@
   <action id="com.karateca.jstoolbox.torelated.GoToViewAction">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="e" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
