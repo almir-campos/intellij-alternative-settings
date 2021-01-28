@@ -603,6 +603,11 @@
       <path value="Create Data Source" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ExpandRegionRecursively" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavBarActions" is_group="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main menu" />
@@ -684,6 +689,14 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Graph.ShowHideGrid" is_action="true" action_type="1" position="4">
@@ -1020,6 +1033,13 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="TWViewModesLegacy" is_group="true" action_type="1" position="8">
@@ -1690,6 +1710,13 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="AddNewFavoritesList" is_action="true" action_type="1" position="22">
