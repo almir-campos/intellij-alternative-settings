@@ -54,6 +54,10 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
   </action>
+  <action id="ExpandTreeNode">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="h" />
