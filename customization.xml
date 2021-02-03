@@ -24,6 +24,34 @@
       <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewJavaScriptFile" is_action="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewStylesheetFile" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewXml" is_group="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Forward" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -469,6 +497,13 @@
       <path value="Open in New Tab" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PopupMenuActions" is_group="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main menu" />
@@ -742,6 +777,13 @@
       <path value="Create Data Source" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewJavaScriptFile" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ScrollPaneActions" is_group="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main menu" />
@@ -811,6 +853,14 @@
       <path value="Bookmarks" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Graph.SnapToGrid" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main menu" />
@@ -852,6 +902,13 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewXml" is_group="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="TabsActions" is_group="true" action_type="1" position="6">
@@ -909,6 +966,14 @@
       <path value="Bookmarks" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Graph.FitContent" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main menu" />
@@ -950,6 +1015,13 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="TWViewModes" is_group="true" action_type="1" position="7">
@@ -1007,6 +1079,14 @@
       <path value="Bookmarks" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Graph.Delete" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main menu" />
@@ -1040,6 +1120,13 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewStylesheetFile" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="TWViewModesLegacy" is_group="true" action_type="1" position="8">
@@ -1097,6 +1184,14 @@
       <path value="Bookmarks" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Graph.Show.Edge.Labels" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main menu" />
@@ -1123,6 +1218,20 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SearchEverywhereActions" is_group="true" action_type="1" position="9">
@@ -1194,6 +1303,13 @@
       <path value="Docker" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Bookmarks" is_group="true" action_type="1" position="10">
       <path value="root" />
       <path value="Main menu" />
@@ -1256,6 +1372,13 @@
       <path value="Docker" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="TodoMainGroup" is_group="true" action_type="1" position="11">
       <path value="root" />
       <path value="Main menu" />
@@ -1316,6 +1439,13 @@
       <path value="Main menu" />
       <path value="Other" />
       <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="11">
@@ -1732,6 +1862,13 @@
       <path value="Bookmarks" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Arrangement.Rule.Section.Add" is_action="true" action_type="1" position="23">
       <path value="root" />
       <path value="Main menu" />
@@ -1745,16 +1882,37 @@
       <path value="Bookmarks" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.Ignore.File" is_group="true" action_type="1" position="24">
       <path value="root" />
       <path value="Main menu" />
       <path value="Other" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="AddToFavoritesPopup" is_action="true" action_type="1" position="25">
       <path value="root" />
       <path value="Main menu" />
       <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Debugger.AddToWatch" is_action="true" action_type="1" position="26">
