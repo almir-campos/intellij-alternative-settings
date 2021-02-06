@@ -1,0 +1,3449 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="PyProfiler.OpenPStat" is_action="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PythonAppEngine" is_group="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Django.ToolsMenu" is_group="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VagrantGroup" is_group="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewJavaScriptFile" is_action="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewStylesheetFile" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewXml" is_group="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowRegistry" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ListActions" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectFirstRow" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectFirstRow" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectFirst" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenu-selectPrevious" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Popup Menu Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-selectHome" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-scrollHome" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab1" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DockPinnedMode" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows View Modes" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TogglePinnedMode" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows Legacy View Modes (deprecated)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere.NextTab" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Search Everywhere" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TodoViewGroupByGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TodoViewGroupByShowModules" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.ZoomIn" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.BalloonLayouter" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.ConnectServer" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.EditExternally" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.ConnectServer" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.AddDataSourceFromUrl" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.OpenInNewTab" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Open in New Tab" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TableActions" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectFirstRowExtendSelection" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectFirstRowExtendSelection" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectFirstExtendSelection" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenu-selectNext" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Popup Menu Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-selectEnd" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-scrollEnd" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab2" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DockUnpinnedMode" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows View Modes" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleDockMode" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows Legacy View Modes (deprecated)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere.PrevTab" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Search Everywhere" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowBookmarks" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TodoViewGroupByShowPackages" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.ZoomOut" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.CircularLayouter" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.DisconnectServer" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.ConvertSvgToPng" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.DisconnectServer" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.AddDataSourceFromPath" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.OpenEachInNewTab" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Open in New Tab" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TreeActions" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectLastRow" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectLastRow" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectLast" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenu-selectParent" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Popup Menu Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-selectUp" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-unitScrollUp" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab3" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UndockMode" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows View Modes" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleFloatingMode" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows Legacy View Modes (deprecated)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere.CompleteCommand" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Search Everywhere" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoNextBookmark" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TodoViewGroupByFlattenPackage" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.ActualSize" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.HierarchicGroupLayouter" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.EditServerConfig" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.ShowThumbnails" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.EditServerConfig" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.AddDataSourceHere" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.SplitByType" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Open in New Tab" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenuActions" is_group="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectLastRowExtendSelection" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectLastRowExtendSelection" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectLastExtendSelection" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenu-selectChild" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Popup Menu Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-selectDown" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-unitScrollDown" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab4" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FloatMode" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows View Modes" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleWindowedMode" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows Legacy View Modes (deprecated)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere.SelectItem" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Search Everywhere" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.ExportToFile" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.OrganicLayouter" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.ChooseServerDeployment" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.ToggleTransparencyChessboard" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.ChooseServerDeployment" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.CreateDataSourceFromSettings" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExpandRegionRecursively" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarActions" is_group="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectPreviousRow" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectPreviousRow" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectPrevious" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenu-return" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Popup Menu Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-selectLeft" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-unitScrollLeft" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab5" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WindowMode" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows View Modes" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleSideMode" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tool Windows Legacy View Modes (deprecated)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere.NavigateToNextGroup" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Search Everywhere" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark0" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.ShowHideGrid" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.OrthogonalLayouter" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.ChooseServerDeploymentWithDebug" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.SetBackgroundImage" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Servers.Deploy" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewJavaScriptFile" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPaneActions" is_group="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectPreviousRowExtendSelection" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectPreviousRowExtendSelection" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectPreviousExtendSelection" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PopupMenu-cancel" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Popup Menu Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-selectRight" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-unitScrollRight" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab6" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere.NavigateToPrevGroup" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Search Everywhere" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark1" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.SnapToGrid" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.DirectedOrthogonalLayouter" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Servers.Deploy" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Editor.ToggleGrid" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.StopComposeApp" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.AddDriverAndDataSource" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewXml" is_group="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TabsActions" is_group="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectNextRow" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectNextRow" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectNext" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-cancel" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-scrollUp" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab7" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark2" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.FitContent" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.TreeLayouter" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <path value="Layout" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Servers.Undeploy" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Editor.ZoomIn" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.DownComposeApp" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.AddDriver" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TWViewModes" is_group="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectNextRowExtendSelection" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectNextRowExtendSelection" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectNextExtendSelection" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-return" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-scrollDown" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab8" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark3" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Delete" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Servers.DeployWithDebug" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Editor.ZoomOut" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.EditDeploymentConfig" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewStylesheetFile" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TWViewModesLegacy" is_group="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectPreviousColumn" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectPreviousColumn" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectParent" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBar-navigate" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Navigation Bar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-scrollLeft" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToTab9" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark4" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="TODO" />
+      <path value="Group By" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Show.Edge.Labels" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServers.EditDeploymentConfig" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Remote Servers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Editor.ActualSize" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.StartContainer" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhereActions" is_group="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectPreviousColumnExtendSelection" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectPreviousColumnExtendSelection" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectParentExtendSelection" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScrollPane-scrollRight" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Scroll" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToLastTab" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark5" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Current.Node.Dependencies.Filter" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Editor.FitZoomToWindow" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.StopContainer" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Bookmarks" is_group="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectNextColumn" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectNextColumn" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectChild" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NextEditorTab" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark6" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.ApplyCurrentLayout" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.DeleteContainer" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TodoMainGroup" is_group="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-selectNextColumnExtendSelection" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-selectNextColumnExtendSelection" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-selectChildExtendSelection" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PreviousEditorTab" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark7" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.CommonLayoutGroup" is_group="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.UpFolder" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.CreateContainer" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Create Data Source" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="&lt;anonymous-group-7&gt;" is_group="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-scrollUp" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-scrollUpChangeSelection" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-scrollUpChangeSelection" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReopenClosedTab" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark8" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Graph.Layout.Fit.Content" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Graphs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.ToggleRecursive" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.DeleteImage" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteServersViewToolbar" is_group="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-scrollUpExtendSelection" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-scrollUpExtendSelection" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-scrollUpExtendSelection" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PinActiveTab" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoBookmark9" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.ToggleFileSize" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.PushImage" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ImagesRootGroup" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-scrollDown" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-scrollDownChangeSelection" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-scrollDownChangeSelection" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MoveEditorToOppositeTabGroup" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark0" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.ToggleFileName" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.PullImage" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServersViewToolbar" is_group="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="List-scrollDownExtendSelection" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="List Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Table-scrollDownExtendSelection" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Table Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tree-scrollDownExtendSelection" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tree Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenEditorInOppositeTabGroup" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Tabs" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark1" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.ToggleTagsPanelName" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.StartComposeService" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Resume" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.AbbreviatePackageNames" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark2" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.Hide" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.StopComposeService" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepInto" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateNavBar" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark3" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.Thumbnails.EnterAction" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Docker.RemoteServers.ScaleComposeService" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Docker" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepIntoMyCode" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NextWindow" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark4" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.ShowBorder" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PreviousWindow" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark5" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.ChangeBackground" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DomCollectionControl.Add" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark6" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DomElementsTreeView.AddElement" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark7" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddNewFavoritesList" is_action="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark8" is_action="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Arrangement.Rule.Section.Add" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark9" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Bookmarks" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Ignore.File" is_group="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToFavoritesPopup" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <path value="Images" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.AddToWatch" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.AutoscrollFromSource" is_action="true" action_type="1" position="27">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorBreadcrumbsShowBelow" is_action="true" action_type="1" position="28">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.History.Browse" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Scratch.ChangeLanguage" is_action="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.ChangeProjectIcon" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewChangeView" is_action="true" action_type="1" position="32">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Update" is_action="true" action_type="1" position="33">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeHierarchy.Class" is_action="true" action_type="1" position="34">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConsoleView.ClearAll" is_action="true" action_type="1" position="35">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.ClearContent" is_action="true" action_type="1" position="36">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TextComponent.ClearAction" is_action="true" action_type="1" position="37">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Runner.CloseView" is_action="true" action_type="1" position="38">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CloseEditor" is_action="true" action_type="1" position="39">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Runner.CloseAllViews" is_action="true" action_type="1" position="40">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Runner.CloseAllUnpinnedViews" is_action="true" action_type="1" position="41">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Runner.CloseOtherViews" is_action="true" action_type="1" position="42">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.ActivateDefaultRemoteServersServiceViewContributor" is_action="true" action_type="1" position="43">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CollapseAll" is_action="true" action_type="1" position="44">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CollapseExpandableComponent" is_action="true" action_type="1" position="45">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CollapseTreeNode" is_action="true" action_type="1" position="46">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateCommitToolWindow" is_action="true" action_type="1" position="47">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.CompactDirectories" is_action="true" action_type="1" position="48">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.CompareValueWithClipboard" is_action="true" action_type="1" position="49">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.TableResult.CompareWith" is_group="true" action_type="1" position="50">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.CollectZippedLogs" is_action="true" action_type="1" position="51">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConcurrencyDebug" is_group="true" action_type="1" position="52">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowGutterIconsSettings" is_action="true" action_type="1" position="53">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Arrangement.Custom.Token.Rule.Edit" is_action="true" action_type="1" position="54">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConfigureSoftWraps" is_action="true" action_type="1" position="55">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ContextHelp" is_action="true" action_type="1" position="56">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.CopyName" is_action="true" action_type="1" position="57">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopySettingsPath" is_action="true" action_type="1" position="58">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.CopyStack" is_action="true" action_type="1" position="59">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyUrl" is_action="true" action_type="1" position="60">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DatabaseView.AddDataSourceGroup" is_group="true" action_type="1" position="61">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.DesktopEntry" is_action="true" action_type="1" position="62">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalSystem.CreateRunConfiguration" is_group="true" action_type="1" position="63">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateDatabaseToolWindow" is_action="true" action_type="1" position="64">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.ActivateDatabaseServiceViewContributor" is_action="true" action_type="1" position="65">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateDatabaseChangesToolWindow" is_action="true" action_type="1" position="66">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DebugClass" is_group="true" action_type="1" position="67">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoDeclarationOnly" is_action="true" action_type="1" position="68">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.GotoDesktop" is_action="true" action_type="1" position="69">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.DirectoryStructure" is_action="true" action_type="1" position="70">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettingsWithAddedPattern" is_action="true" action_type="1" position="71">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DisableInspection" is_action="true" action_type="1" position="72">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.ActivateDockerServiceViewContributor" is_action="true" action_type="1" position="73">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorBreadcrumbsHideBoth" is_action="true" action_type="1" position="74">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DumpFocusableComponentHierarchyAction" is_action="true" action_type="1" position="75">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DumpLookupElementWeights" is_action="true" action_type="1" position="76">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditBookmark" is_action="true" action_type="1" position="77">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditBreakpoint" is_action="true" action_type="1" position="78">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.Properties" is_action="true" action_type="1" position="79">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.VMOptions" is_action="true" action_type="1" position="80">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Arrangement.Rule.Edit" is_action="true" action_type="1" position="81">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalSystem.EditRunConfiguration" is_action="true" action_type="1" position="82">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeView.EditScopes" is_action="true" action_type="1" position="83">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditInspectionSettings" is_action="true" action_type="1" position="84">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.EditGroup" is_action="true" action_type="1" position="85">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateEducational.CheckDetailsToolWindow" is_action="true" action_type="1" position="86">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EmmetPreview" is_action="true" action_type="1" position="87">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.Tree.EvaluateInConsole" is_action="true" action_type="1" position="88">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EvaluateInConsole" is_action="true" action_type="1" position="89">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateEventLogToolWindow" is_action="true" action_type="1" position="90">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkExcludeRoot" is_action="true" action_type="1" position="91">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.Execute.Multiline" is_action="true" action_type="1" position="92">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.Execute" is_action="true" action_type="1" position="93">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExpandAll" is_action="true" action_type="1" position="94">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExpandExpandableComponent" is_action="true" action_type="1" position="95">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExpandTreeNode" is_action="true" action_type="1" position="96">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowExperiments" is_action="true" action_type="1" position="97">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.Export" is_action="true" action_type="1" position="98">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExportTestResults" is_action="true" action_type="1" position="99">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExportToTextFile" is_action="true" action_type="1" position="100">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateFavoritesToolWindow" is_action="true" action_type="1" position="101">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.FileStructure" is_action="true" action_type="1" position="102">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindModal" is_action="true" action_type="1" position="103">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FixDocComment" is_action="true" action_type="1" position="104">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.FlattenModules" is_action="true" action_type="1" position="105">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.FlattenModules" is_action="true" action_type="1" position="106">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.FlattenPackages" is_action="true" action_type="1" position="107">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateFlowToolWindow" is_action="true" action_type="1" position="108">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.FocusOnBreakpoint" is_action="true" action_type="1" position="109">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Runner.FocusOnStartup" is_action="true" action_type="1" position="110">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProblemsView.SortFoldersFirst" is_action="true" action_type="1" position="111">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.FoldersAlwaysOnTop" is_action="true" action_type="1" position="112">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Force.Push" is_action="true" action_type="1" position="113">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ForceRefresh" is_action="true" action_type="1" position="114">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FullyExpandTreeNode" is_action="true" action_type="1" position="115">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateVersionControlToolWindow" is_action="true" action_type="1" position="116">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoToLinkTarget" is_action="true" action_type="1" position="117">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.Directory" is_action="true" action_type="1" position="118">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.GroupConfigurations" is_action="true" action_type="1" position="119">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.HideConfiguration" is_action="true" action_type="1" position="120">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.HideEmptyMiddlePackages" is_action="true" action_type="1" position="121">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalSystem.HideProjectRefreshAction" is_action="true" action_type="1" position="122">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowParameterHintsSettings" is_action="true" action_type="1" position="123">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.GotoHome" is_action="true" action_type="1" position="124">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.Import" is_action="true" action_type="1" position="125">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageView.Include" is_action="true" action_type="1" position="126">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IncrementalSearch" is_action="true" action_type="1" position="127">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeInspection.OnEditor" is_action="true" action_type="1" position="128">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Inspect" is_action="true" action_type="1" position="129">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="plugin.InstallFromDiskAction" is_action="true" action_type="1" position="130">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateInternalMethodTracingToolWindow" is_action="true" action_type="1" position="131">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="BraceOrQuoteOut" is_action="true" action_type="1" position="132">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JumpToColorsAndFonts" is_action="true" action_type="1" position="133">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalSystem.ProjectRefreshAction" is_action="true" action_type="1" position="134">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorLookupDown" is_action="true" action_type="1" position="135">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorLookupUp" is_action="true" action_type="1" position="136">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MaintenanceAction" is_action="true" action_type="1" position="137">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.ManageLicense" is_action="true" action_type="1" position="138">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.ManualOrder" is_action="true" action_type="1" position="139">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkNotificationsAsRead" is_action="true" action_type="1" position="140">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkAsOriginalTypeAction" is_action="true" action_type="1" position="141">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkAsPlainTextAction" is_action="true" action_type="1" position="142">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MaximizeActiveDialog" is_action="true" action_type="1" position="143">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.Module" is_action="true" action_type="1" position="144">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Arrangement.Rule.Match.Condition.Move.Down" is_action="true" action_type="1" position="145">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Arrangement.Rule.Match.Condition.Move.Up" is_action="true" action_type="1" position="146">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="147">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.NewFile" is_action="true" action_type="1" position="148">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.NewFolder" is_action="true" action_type="1" position="149">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.NewGroup" is_action="true" action_type="1" position="150">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewScratchBuffer" is_action="true" action_type="1" position="151">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.NewWatch" is_action="true" action_type="1" position="152">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewElementSamePlace" is_action="true" action_type="1" position="153">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.History.Next" is_action="true" action_type="1" position="154">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkAsContentRoot" is_action="true" action_type="1" position="155">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.Open" is_action="true" action_type="1" position="156">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.OpenEachInNewTab" is_action="true" action_type="1" position="157">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.SplitByType" is_action="true" action_type="1" position="158">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProblemsView.ShowPreview" is_action="true" action_type="1" position="159">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="LightEditOpenFileInProject" is_action="true" action_type="1" position="160">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProblemsView.AutoscrollToSource" is_action="true" action_type="1" position="161">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.AutoscrollToSource" is_action="true" action_type="1" position="162">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenInBrowser" is_action="true" action_type="1" position="163">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenElementInNewWindow" is_action="true" action_type="1" position="164">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.OpenInNewTabGroup" is_group="true" action_type="1" position="165">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.OpenInNewTab" is_action="true" action_type="1" position="166">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.OpenSelected" is_action="true" action_type="1" position="167">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditSourceInNewWindow" is_action="true" action_type="1" position="168">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PauseOutput" is_action="true" action_type="1" position="169">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.PinToTop" is_action="true" action_type="1" position="170">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Plugins" is_action="true" action_type="1" position="171">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.History.Previous" is_action="true" action_type="1" position="172">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateProblemsViewToolWindow" is_action="true" action_type="1" position="173">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunProfiler" is_group="true" action_type="1" position="174">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateProjectToolWindow" is_action="true" action_type="1" position="175">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.GotoProject" is_action="true" action_type="1" position="176">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivatePullRequestsToolWindow" is_action="true" action_type="1" position="177">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivatePythonConsoleToolWindow" is_action="true" action_type="1" position="178">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Refresh" is_action="true" action_type="1" position="179">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowRegistry" is_action="true" action_type="1" position="180">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="1" position="181">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveAllBreakpoints" is_action="true" action_type="1" position="182">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveAllBreakpointsInFile" is_action="true" action_type="1" position="183">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.RemoveAllWatches" is_action="true" action_type="1" position="184">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.RemoveType" is_action="true" action_type="1" position="185">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalSystem.RemoveRunConfiguration" is_action="true" action_type="1" position="186">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.RemoveSelected" is_action="true" action_type="1" position="187">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditFavorites" is_action="true" action_type="1" position="188">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameFile" is_action="true" action_type="1" position="189">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleRenderedDocPresentationForAll" is_action="true" action_type="1" position="190">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Rerun" is_action="true" action_type="1" position="191">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RerunFailedTests" is_action="true" action_type="1" position="192">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RerunTests" is_action="true" action_type="1" position="193">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.RestoreConfiguration" is_action="true" action_type="1" position="194">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RestoreDefaultExtensionScripts" is_action="true" action_type="1" position="195">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Runner.RestoreLayout" is_action="true" action_type="1" position="196">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Configure.RestoreDefault" is_action="true" action_type="1" position="197">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.RestoreHiddenConfigurations" is_action="true" action_type="1" position="198">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RestoreFontPreviewTextAction" is_action="true" action_type="1" position="199">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.AddType" is_action="true" action_type="1" position="200">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunClass" is_group="true" action_type="1" position="201">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.ActivateRunDashboardServiceViewContributor" is_action="true" action_type="1" position="202">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunInspectionOn" is_action="true" action_type="1" position="203">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunCoverage" is_group="true" action_type="1" position="204">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SaveDocument" is_action="true" action_type="1" position="205">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateSciViewToolWindow" is_action="true" action_type="1" position="206">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSearchHistory" is_action="true" action_type="1" position="207">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$SearchWeb" is_action="true" action_type="1" position="208">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ClassNameCompletion" is_action="true" action_type="1" position="209">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SelectInProjectView" is_action="true" action_type="1" position="210">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.LightEditGotoOpenedFile" is_action="true" action_type="1" position="211">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunConfiguration" is_action="true" action_type="1" position="212">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SendEOF" is_action="true" action_type="1" position="213">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DuplicatesForm.SendToLeft" is_action="true" action_type="1" position="214">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DuplicatesForm.SendToRight" is_action="true" action_type="1" position="215">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.GroupByServiceGroups" is_action="true" action_type="1" position="216">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.GroupByContributor" is_action="true" action_type="1" position="217">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateServicesToolWindow" is_action="true" action_type="1" position="218">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.SetValue" is_action="true" action_type="1" position="219">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WelcomeScreen.Settings" is_action="true" action_type="1" position="220">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowColorPicker" is_action="true" action_type="1" position="221">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowIntentionActions" is_action="true" action_type="1" position="222">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowPopupMenu" is_action="true" action_type="1" position="223">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.ShowExcludedFiles" is_action="true" action_type="1" position="224">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AnnotateStackTraceAction.show.files.modification.info" is_action="true" action_type="1" position="225">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowFilterPopup" is_action="true" action_type="1" position="226">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowFontsUsedByEditor" is_action="true" action_type="1" position="227">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.ShowHiddens" is_action="true" action_type="1" position="228">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HidpiInfo" is_action="true" action_type="1" position="229">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RevealIn" is_action="true" action_type="1" position="230">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterToggleGlobalIndentLines" is_action="true" action_type="1" position="231">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.ShowLibraryContents" is_action="true" action_type="1" position="232">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterToggleGlobalLineNumbers" is_action="true" action_type="1" position="233">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.ShowMembers" is_action="true" action_type="1" position="234">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.ShowModules" is_action="true" action_type="1" position="235">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MemoryView.ShowOnlyWithDiff" is_action="true" action_type="1" position="236">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleCompletionHintsAction" is_action="true" action_type="1" position="237">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="QuickActionPopup" is_action="true" action_type="1" position="238">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShelvedChanges.ShowRecentlyDeleted" is_action="true" action_type="1" position="239">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ShowReferring" is_action="true" action_type="1" position="240">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.ShowServices" is_action="true" action_type="1" position="241">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SeverityEditorDialog" is_action="true" action_type="1" position="242">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Inline" is_action="true" action_type="1" position="243">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.ShowVisibilityIcons" is_action="true" action_type="1" position="244">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.SwitchWatchesInVariables" is_action="true" action_type="1" position="245">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ShowLibraryFrames" is_action="true" action_type="1" position="246">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FileChooser.TogglePathShowing" is_action="true" action_type="1" position="247">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenMouseWheelSmoothScrollSettings" is_action="true" action_type="1" position="248">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleUseSoftWrapsInPreview" is_action="true" action_type="1" position="249">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProblemsView.SortByName" is_action="true" action_type="1" position="250">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProblemsView.SortBySeverity" is_action="true" action_type="1" position="251">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectView.SortByType" is_action="true" action_type="1" position="252">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToggleSortValues" is_action="true" action_type="1" position="253">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateSourceryToolWindow" is_action="true" action_type="1" position="254">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkSourceRoot" is_action="true" action_type="1" position="255">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ServiceView.ActivateSshServiceViewContributor" is_action="true" action_type="1" position="256">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.GroupByStatus" is_action="true" action_type="1" position="257">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateStructureToolWindow" is_action="true" action_type="1" position="258">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeHierarchy.Subtypes" is_action="true" action_type="1" position="259">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeHierarchy.Supertypes" is_action="true" action_type="1" position="260">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SurroundWithEmmet" is_action="true" action_type="1" position="261">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SurroundWithLiveTemplate" is_action="true" action_type="1" position="262">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Switcher" is_action="true" action_type="1" position="263">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="264">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.Scope" is_action="true" action_type="1" position="265">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateTODOToolWindow" is_action="true" action_type="1" position="266">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleInlayHintsGloballyAction" is_action="true" action_type="1" position="267">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleInlineHintsAction" is_action="true" action_type="1" position="268">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TogglePopupHints" is_action="true" action_type="1" position="269">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleRenderedDocPresentation" is_action="true" action_type="1" position="270">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorBreadcrumbsShowAbove" is_action="true" action_type="1" position="271">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunDashboard.GroupByType" is_action="true" action_type="1" position="272">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateTypeScriptToolWindow" is_action="true" action_type="1" position="273">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UiDebugger" is_action="true" action_type="1" position="274">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UnmarkRoot" is_action="true" action_type="1" position="275">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.UnmuteOnStop" is_action="true" action_type="1" position="276">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MemoryView.SwitchUpdateMode" is_action="true" action_type="1" position="277">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EmmetUpdateTag" is_action="true" action_type="1" position="278">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UsageGrouping.UsageType" is_action="true" action_type="1" position="279">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsToolbarLabelAction" is_action="true" action_type="1" position="280">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Other" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>

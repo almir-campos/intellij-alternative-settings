@@ -3,7 +3,7 @@
     <property name="created">2020-12-08T12:12:15</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-12-27T00:09:28</property>
+    <property name="modified">2021-01-19T00:27:52</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -664,6 +664,14 @@
         <option name="FOREGROUND" value="aaff" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="SCOPE_KEY_All Changed Files">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_templates">
+      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
