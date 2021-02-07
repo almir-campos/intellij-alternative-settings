@@ -40,7 +40,6 @@
     <entry key="debugger.show.values.between.lines" value="true" />
     <entry key="ide.show.progress.without.status.bar" value="false" />
     <entry key="ide.find.enter.as.ok" value="true" />
-    <entry key="debugger.watches.in.variables" value="false" />
     <entry key="database.view.show.mini.cat" value="true" />
     <entry key="editor.caret.width" value="4" />
     <entry key="editor.show.popup.for.unresolved.references" value="true" />
@@ -63,7 +62,6 @@
     <entry key="ide.symbol.url.references" value="true" />
     <entry key="ide.titled.border.left" value="1" />
     <entry key="ide.titled.border.right" value="1" />
-    <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="ide.tree.large.model.allowed" value="true" />
     <entry key="ide.window.shadow.painter" value="true" />
     <entry key="idea.true.smooth.scrolling.debug" value="true" />
@@ -89,6 +87,18 @@
     <entry key="vcs.ignorefile.generation" value="true" />
     <entry key="vcs.log.labels.left.aligned" value="true" />
     <entry key="vcs.log.open.editor.tab" value="true" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
+    <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+    <entry key="typescript.compiler.all.settings" value="true" />
+    <entry key="debugger.new.debug.tool.window.view" value="true" />
+    <entry key="debugger.new.threads.view" value="true" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="ide.windowSystem.hScrollChars" value="15" />
+    <entry key="plugins.show.implementation.details" value="true" />
+    <entry key="documentation.component.editor.font" value="true" />
+    <entry key="actionSystem.always.update.toolbar.actions" value="true" />
+    <entry key="ide.plugins.load.automatically" value="true" />
+    <entry key="vcs.root.auto.add.nofity" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
