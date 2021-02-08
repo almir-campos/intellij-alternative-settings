@@ -99,6 +99,7 @@
     <entry key="actionSystem.always.update.toolbar.actions" value="true" />
     <entry key="ide.plugins.load.automatically" value="true" />
     <entry key="vcs.root.auto.add.nofity" value="true" />
+    <entry key="editor.config.breadcrumbs.support" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
