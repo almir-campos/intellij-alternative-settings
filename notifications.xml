@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Angular CLI" displayType="STICKY_BALLOON" />
     <notification groupId="CythonWarning" displayType="NONE" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Enable google-java-format" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Plugin Error" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Python Compatibility Inspection Advertiser" displayType="STICKY_BALLOON" />

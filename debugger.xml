@@ -196,15 +196,14 @@
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration watchReturnValues="true">
+        <configuration doNotStepIntoLibraryCode="false" watchReturnValues="true">
           <custom-object-presentation />
         </configuration>
       </debugger>
       <debugger id="python">
         <configuration>
-          <option name="librariesFilterEnabled" value="true" />
+          <option name="simplifiedView" value="false" />
           <option name="valuesPolicy" value="SYNC" />
-          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>
