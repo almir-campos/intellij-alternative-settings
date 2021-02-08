@@ -50,8 +50,6 @@
     <entry key="ide.hide.cursor.when.typing" value="false" />
     <entry key="ide.hide.excluded.files" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
-    <entry key="ide.new.project.model" value="true" />
-    <entry key="ide.new.run.config" value="true" />
     <entry key="ide.notification.visible.count" value="5" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.plugins.suggest.install.optional.dependencies" value="true" />
@@ -64,8 +62,6 @@
     <entry key="ide.titled.border.right" value="1" />
     <entry key="ide.tree.large.model.allowed" value="true" />
     <entry key="ide.window.shadow.painter" value="true" />
-    <entry key="idea.true.smooth.scrolling.debug" value="true" />
-    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="java.detector.include.embedded" value="true" />
     <entry key="js.debugger.trace.resume" value="true" />
     <entry key="keep.menu.hierarchy" value="true" />
@@ -80,7 +76,6 @@
     <entry key="show.last.visited.timestamps" value="false" />
     <entry key="show.se.urls.tab" value="true" />
     <entry key="suggest.all.run.configurations.from.context" value="true" />
-    <entry key="system.file.type.associations.enabled" value="true" />
     <entry key="terminal.distraction.free" value="true" />
     <entry key="testDiscovery.enabled" value="true" />
     <entry key="type.ahead.logging.enabled" value="true" />
@@ -100,6 +95,12 @@
     <entry key="ide.plugins.load.automatically" value="true" />
     <entry key="vcs.root.auto.add.nofity" value="true" />
     <entry key="editor.config.breadcrumbs.support" value="true" />
+    <entry key="idea.true.smooth.scrolling.high.precision" value="false" />
+    <entry key="idea.true.smooth.scrolling.interpolation.mouse.wheel" value="false" />
+    <entry key="idea.true.smooth.scrolling.interpolation.other" value="false" />
+    <entry key="idea.true.smooth.scrolling.interpolation.precision.touchpad" value="false" />
+    <entry key="idea.true.smooth.scrolling.interpolation.scrollbar" value="false" />
+    <entry key="idea.true.smooth.scrolling.pixel.perfect" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
