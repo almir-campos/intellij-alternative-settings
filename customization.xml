@@ -1,5 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="tasks.toolbar" is_group="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Forward" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -8,6 +13,12 @@
     <group value="Back" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsToolbarActions" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="0">
@@ -65,42 +76,42 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="11">
+    <group seperator="true" action_type="1" position="10">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Back" is_action="true" action_type="1" position="12">
+    <group value="Back" is_action="true" action_type="1" position="11">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Forward" is_action="true" action_type="1" position="13">
+    <group value="Forward" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="14">
+    <group seperator="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Resume" is_action="true" action_type="1" position="15">
+    <group value="Resume" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StepInto" is_action="true" action_type="1" position="16">
+    <group value="StepInto" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StepIntoMyCode" is_action="true" action_type="1" position="17">
+    <group value="StepIntoMyCode" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="18">
+    <group seperator="true" action_type="1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
