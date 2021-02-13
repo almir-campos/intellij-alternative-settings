@@ -11,22 +11,18 @@
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <DB2CodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </DB2CodeStyleSettings>
   <DerbyCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </DerbyCodeStyleSettings>
   <H2CodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </H2CodeStyleSettings>
   <HSQLCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </HSQLCodeStyleSettings>
@@ -69,37 +65,46 @@
     </option>
   </JetCodeStyleSettings>
   <MSSQLCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </MSSQLCodeStyleSettings>
   <MySQLCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </OracleCodeStyleSettings>
   <PostgresCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="1" />
+    <option name="SUBQUERY_CLOSING" value="1" />
+    <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="ORDER_EL_WRAP" value="1" />
   </PostgresCodeStyleSettings>
   <SQLiteCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </SqlCodeStyleSettings>
   <SybaseCodeStyleSettings version="5">
-    <option name="myVersion" value="5" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="FROM_INDENT_JOIN" value="false" />
   </SybaseCodeStyleSettings>
