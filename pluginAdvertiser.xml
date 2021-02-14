@@ -875,6 +875,86 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.puactivity">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.puclass">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pucomponent">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pudeployment">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.punetwork">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.puobject">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pusequence">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pustate">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.putiming">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.puusecase">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="jp.kitabatakep.intellij.plugins.PlantUMLStudio" />
+              <option name="myPluginName" value="PlantUML Studio" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pxd">
           <value>
             <plugin>
