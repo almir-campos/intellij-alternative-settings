@@ -96,22 +96,47 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Resume" is_action="true" action_type="1" position="14">
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StepInto" is_action="true" action_type="1" position="15">
+    <group value="ViewBreakpoints" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StepIntoMyCode" is_action="true" action_type="1" position="16">
+    <group value="Resume" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="17">
+    <group value="StepInto" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepIntoMyCode" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SmartStepInto" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepOver" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
