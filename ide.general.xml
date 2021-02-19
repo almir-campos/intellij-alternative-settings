@@ -101,6 +101,7 @@
     <entry key="idea.true.smooth.scrolling.interpolation.precision.touchpad" value="false" />
     <entry key="idea.true.smooth.scrolling.interpolation.scrollbar" value="false" />
     <entry key="idea.true.smooth.scrolling.pixel.perfect" value="false" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
