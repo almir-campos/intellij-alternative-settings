@@ -6,8 +6,9 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES />
-      <JAVADOC />
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular.js" />
+      </CLASSES>
       <SOURCES />
     </library>
     <library name="angular-resource" type="javaScript">
@@ -19,16 +20,49 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular-resource.js" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.8-template-00 interpreter library">
+    <library name="axios-0-21-0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.nvm/versions/node/v12.18.4/lib/node_modules/axios" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
-        <root url="file:///usr/lib/python3.8" />
-        <root url="file:///usr/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/my/code/python/flask/app-templates/template-00/venv/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-409291240" />
+        <root url="file://$USER_HOME$/.nvm/versions/node/v12.18.4/lib/node_modules/axios" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_bootstrap_dist_css_bootstrap.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_bootstrap_dist_css_bootstrap.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.3.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="3.3.1" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.nvm/versions/node/v12.18.4/lib/node_modules/jquery" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.nvm/versions/node/v12.18.4/lib/node_modules/jquery" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Python 3.8 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-1199943125" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -36,13 +70,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
-        <root url="file:///usr/lib/python3.8" />
-        <root url="file:///usr/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/my/code/python/flask/app-templates/template-00/venv/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-409291240" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-1199943125" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />

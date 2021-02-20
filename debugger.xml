@@ -191,16 +191,20 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+      <option name="showDebuggerOnBreakpoint" value="false" />
+    </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration doNotStepIntoLibraryCode="false" watchReturnValues="true">
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="python">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <option name="simplifiedView" value="false" />
+          <option name="valuesPolicy" value="SYNC" />
         </configuration>
       </debugger>
     </debuggers>
