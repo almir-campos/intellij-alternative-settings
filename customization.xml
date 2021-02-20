@@ -121,9 +121,19 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkAsPlainTextAction" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ViewBreakpoints" is_action="true" action_type="1" position="15">
@@ -134,6 +144,11 @@
     <group value="Resume" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkAsPlainTextAction" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="StepInto" is_action="true" action_type="1" position="17">
