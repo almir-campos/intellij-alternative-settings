@@ -27,6 +27,10 @@
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.ShowDiff" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="m" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
