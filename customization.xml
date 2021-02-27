@@ -1,5 +1,20 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="36">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="34">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewJavaScriptFile" is_action="true" action_type="-1" position="26">
       <path value="root" />
       <path value="Scope View Popup Menu" />
@@ -14,9 +29,24 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewPythonFile" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewXml" is_group="true" action_type="-1" position="24">
       <path value="root" />
       <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="-1" position="22">
+      <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
@@ -28,14 +58,121 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="FileTemplateSeparatorGroup" is_group="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonPackage" is_action="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonPackage" is_action="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFile" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.CreateSampleDataDirectory" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.CreateResourceDirectory" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Forward" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="AJ.NewAspect" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Groovy.NewClass" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Back" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddNewPropertyFile" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Kotlin.NewFile" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPropertyAction" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Groovy.NewClass" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Mvc.Actions" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Kotlin.NewFile" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="VcsToolbarActions" is_group="true" action_type="-1" position="0">
@@ -44,9 +181,27 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="WebResourcesGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="0">
       <path value="root" />
       <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonPackage" is_action="true" action_type="1" position="1">
+      <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
@@ -58,6 +213,17 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ExpandRegionRecursively" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewXml" is_group="true" action_type="1" position="2">
       <path value="root" />
       <path value="Scope View Popup Menu" />
@@ -65,15 +231,25 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ExpandRegionRecursively" is_action="true" action_type="1" position="3">
+    <group seperator="true" action_type="1" position="3">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewPythonFile" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFile" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -86,8 +262,53 @@
     </group>
     <group seperator="true" action_type="1" position="5">
       <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
       <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonFile" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonPackage" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_group="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
