@@ -3,5 +3,8 @@
     <internal_templates>
       <template name="Flask Main.py" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
+    <default_templates>
+      <template name="Copy of Flask Main.py" reformat="true" live-template-enabled="true" />
+    </default_templates>
   </component>
 </application>
