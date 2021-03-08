@@ -317,15 +317,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.drl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.drools" />
-              <option name="myPluginName" value="Drools" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.dtd">
           <value>
             <plugin>
@@ -416,42 +407,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ft">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.velocity" />
-              <option name="myPluginName" value="Velocity" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.ftl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.freemarker" />
-              <option name="myPluginName" value="FreeMarker" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.ftlh">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.freemarker" />
-              <option name="myPluginName" value="FreeMarker" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.ftlx">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.freemarker" />
-              <option name="myPluginName" value="FreeMarker" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
@@ -511,24 +466,6 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.gson">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.intellij.groovy" />
-              <option name="myPluginName" value="Groovy" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.gsp">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.intellij.grails" />
-              <option name="myPluginName" value="Grails" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -682,7 +619,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -745,7 +681,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1024,7 +959,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1276,7 +1210,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1365,7 +1298,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1374,7 +1306,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1383,7 +1314,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1392,7 +1322,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1401,7 +1330,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1410,7 +1338,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1691,6 +1618,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
@@ -1749,7 +1684,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1762,29 +1696,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.vm">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.velocity" />
-              <option name="myPluginName" value="Velocity" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.vsd">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.vsl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.velocity" />
-              <option name="myPluginName" value="Velocity" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1821,7 +1737,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2157,6 +2072,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -2202,6 +2125,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
@@ -2216,7 +2155,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2458,16 +2396,6 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
-                  <entry key="ArquillianJUnit">
-                    <value>
-                      <FeaturePluginData displayName="Arquillian JUnit" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" />
-                    </value>
-                  </entry>
-                  <entry key="ArquillianTestNG">
-                    <value>
-                      <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -2503,19 +2431,9 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
-                  <entry key="GlassfishConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" />
-                    </value>
-                  </entry>
                   <entry key="GradleRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
-                    </value>
-                  </entry>
-                  <entry key="GrailsRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Grails" pluginName="Grails" pluginId="org.intellij.grails" />
                     </value>
                   </entry>
                   <entry key="GroovyScriptRunConfiguration">
@@ -2598,11 +2516,6 @@
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
                     </value>
                   </entry>
-                  <entry key="MicronautRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" />
-                    </value>
-                  </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" />
@@ -2653,11 +2566,6 @@
                       <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
-                  <entry key="QuarkusRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
-                    </value>
-                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -2706,16 +2614,6 @@
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
-                    </value>
-                  </entry>
-                  <entry key="WebLogic Instance">
-                    <value>
-                      <FeaturePluginData displayName="WebLogic Server" pluginName="WebLogic" pluginId="Weblogic" />
-                    </value>
-                  </entry>
-                  <entry key="WebSphereRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="WebSphere Server" pluginName="WebSphere" pluginId="WebSphere" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -2776,6 +2674,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="Python">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Spring">
