@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings StylesheetUri="file://$USER_HOME$/my/courses/spb/unit-23/23.1/exercise/flask-blogly/static/css/markdown.css" StylesheetText="p { margin-left: 30px; }" />
   </component>
 </application>

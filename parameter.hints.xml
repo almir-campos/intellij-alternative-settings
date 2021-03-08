@@ -1,0 +1,8 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="sql.show.column.names.in.select" value="true" />
+    <disabledLanguages>
+      <language id="JavaScript" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -15,14 +15,18 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
-  <action id="CloudConfigAction">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="j" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.FindInGrid" />
   <action id="Debug" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="d" />
+  </action>
+  <action id="DevKit.EditThemeEditorColorScheme">
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="t" />
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.ShowDiff" />
@@ -37,11 +41,25 @@
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="c" />
+  </action>
   <action id="Exit">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="ExportImportGroup">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="i" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
+  </action>
+  <action id="ExpandTreeNode">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
@@ -53,8 +71,18 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="u" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="f" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="n" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="p" />
   </action>
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -88,16 +116,32 @@
   <action id="NewJavaScriptFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="j" />
   </action>
+  <action id="NewPythonFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="p" />
+  </action>
   <action id="NewStylesheetFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="s" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt tab" />
   </action>
   <action id="NextTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="RecentFiles" />
+  <action id="RemoteHostView.Rename">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="r" />
+  </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="r" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="r" />
+  </action>
+  <action id="RenameProject">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="r" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="c" />
@@ -113,10 +157,18 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="r" />
+  </action>
   <action id="SendEOF" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="s" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowRegistry">
-    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="r" />
   </action>
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
@@ -124,6 +176,10 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="t" />
+  </action>
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="p" />
@@ -134,6 +190,9 @@
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="alt v" second-keystroke="m" />
   </action>
+  <action id="WelcomeScreen.Configure.Properties">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="p" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="com.karateca.jstoolbox.toconstructor.GoToConstructorAction">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
@@ -141,8 +200,11 @@
   <action id="com.karateca.jstoolbox.torelated.GoToViewAction">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
+  <action id="com.mnw.stickyselection.actions.PaintSelectionPopupAction">
+    <keyboard-shortcut first-keystroke="alt k" second-keystroke="p" />
+  </action>
   <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="e" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
