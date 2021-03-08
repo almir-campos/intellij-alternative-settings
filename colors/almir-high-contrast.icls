@@ -3,7 +3,7 @@
     <property name="created">2021-03-08T06:31:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-08T07:55:07</property>
+    <property name="modified">2021-03-08T08:18:01</property>
     <property name="originalScheme">_@user_High contrast</property>
   </metaInfo>
   <colors>
@@ -48,6 +48,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="a26f51" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="ff0000" />
     <option name="SEPARATOR_BELOW_COLOR" value="ff0000" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="STRING_CONTENT_INDENT_GUIDE" value="54b33e" />
@@ -113,7 +114,7 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="400000" />
+        <option name="BACKGROUND" value="603838" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
