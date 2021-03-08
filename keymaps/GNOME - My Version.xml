@@ -61,6 +61,7 @@
     <keyboard-shortcut first-keystroke="add" />
     <keyboard-shortcut first-keystroke="alt m" second-keystroke="e" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="h" />
@@ -189,6 +190,9 @@
   </action>
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="alt v" second-keystroke="m" />
+  </action>
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="e" />
   </action>
   <action id="WelcomeScreen.Configure.Properties">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="p" />
