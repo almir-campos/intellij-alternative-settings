@@ -682,7 +682,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -745,7 +744,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1024,7 +1022,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1186,7 +1183,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.localization" />
               <option name="myPluginName" value="GNU GetText files support (*.po)" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1204,7 +1200,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.localization" />
               <option name="myPluginName" value="GNU GetText files support (*.po)" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1276,7 +1271,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1365,7 +1359,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1374,7 +1367,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1383,7 +1375,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1392,7 +1383,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1401,7 +1391,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1410,7 +1399,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1499,7 +1487,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.rest" />
               <option name="myPluginName" value="ReStructuredText" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1691,6 +1678,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
@@ -1749,7 +1744,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1821,7 +1815,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2157,6 +2150,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -2202,6 +2203,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
@@ -2216,7 +2233,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2776,6 +2792,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="Python">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Spring">
