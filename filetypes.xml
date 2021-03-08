@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="CALIBRATION-LUA" type="PLAIN_TEXT" />
@@ -10,9 +12,9 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="mgt" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
