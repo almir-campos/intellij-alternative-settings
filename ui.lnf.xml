@@ -17,6 +17,7 @@
     <option name="SELECTED_TABS_LAYOUT_INFO_ID" value="TableLayoutInfo" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>

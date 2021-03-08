@@ -25,6 +25,9 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="d" />
   </action>
+  <action id="DevKit.EditThemeEditorColorScheme">
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="t" />
+  </action>
   <action id="Diff.NextChange" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
