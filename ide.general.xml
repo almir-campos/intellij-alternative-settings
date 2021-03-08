@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="inactiveTimeout" value="30" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
@@ -44,10 +45,8 @@
     <entry key="editor.caret.width" value="4" />
     <entry key="editor.show.popup.for.unresolved.references" value="true" />
     <entry key="ide.animate.toolwindows" value="true" />
-    <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.editor.tabs.use.tabslayout" value="true" />
     <entry key="ide.enable.toolwindow.stack" value="true" />
-    <entry key="ide.hide.cursor.when.typing" value="false" />
     <entry key="ide.hide.excluded.files" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="ide.notification.visible.count" value="5" />
@@ -56,7 +55,6 @@
     <entry key="ide.project.frame.as.splash" value="true" />
     <entry key="ide.project.view.change.icon.on.selection" value="true" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
-    <entry key="ide.show.folder.name.instead.of.module.name" value="true" />
     <entry key="ide.symbol.url.references" value="true" />
     <entry key="ide.titled.border.left" value="1" />
     <entry key="ide.titled.border.right" value="1" />
@@ -101,7 +99,38 @@
     <entry key="idea.true.smooth.scrolling.interpolation.precision.touchpad" value="false" />
     <entry key="idea.true.smooth.scrolling.interpolation.scrollbar" value="false" />
     <entry key="idea.true.smooth.scrolling.pixel.perfect" value="false" />
-    <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.navigate.to.directory.into.project.pane" value="true" />
+    <entry key="ide.navigate.to.recently.focused.editor" value="true" />
+    <entry key="ide.new.navbar" value="true" />
+    <entry key="ide.new.navbar.run.debug" value="true" />
+    <entry key="ide.new.navbar.vcs.group" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="ide.new.project.model.indicator" value="true" />
+    <entry key="ide.patch.icons.on.selection" value="true" />
+    <entry key="ide.plugins.allow.unload.from.sources" value="true" />
+    <entry key="ide.plugins.per.project" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="recommenders.java.proposals.decorate" value="true" />
+    <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
+    <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="ide.find.as.popup.decorated" value="true" />
+    <entry key="ide.editor.alternative.folding.icons.painting" value="true" />
+    <entry key="ide.debugMode" value="true" />
+    <entry key="ide.dfa.report.imprecise" value="true" />
+    <entry key="ide.completion.typo.tolerance" value="true" />
+    <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
+    <entry key="ide.check.is.dumb.contract" value="true" />
+    <entry key="editor.adjust.right.margin" value="true" />
+    <entry key="debugger.show.values.colorful" value="true" />
+    <entry key="debugger.capture.points.annotations" value="true" />
+    <entry key="debugger.call.tracing" value="true" />
+    <entry key="database.view.copy.datasource" value="true" />
+    <entry key="database.postgres.introspect.system.schemas" value="true" />
+    <entry key="database.debug.trace" value="true" />
+    <entry key="compiler.document.save.enabled" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="ide.hide.cursor.when.typing" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

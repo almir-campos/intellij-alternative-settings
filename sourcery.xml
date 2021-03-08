@@ -1,10 +1,10 @@
 <application>
   <component name="SourceryConfigService">
-    <option name="pluginVersion" value="0.8.7" />
+    <option name="pluginVersion" value="0.8.6" />
     <option name="sourceryConfigFolder" value="$USER_HOME$/.config/sourcery" />
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/lib/linux/sourcery" />
     <option name="sourceryProductName" value="Open Source" />
     <option name="sourceryToken" value="user_6RjGal1M0QHvcyfXOiUh3vnSGRRrkTKyhUmMvDwmiCFRyzS4kqzpLjvpojk" />
-    <option name="sourceryVersion" value="0.8.7" />
+    <option name="sourceryVersion" value="0.8.6" />
   </component>
 </application>
