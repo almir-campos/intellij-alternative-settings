@@ -189,18 +189,28 @@
       <option name="SHOW_DECLARED_TYPE" value="true" />
     </Renderer>
   </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+    <option name="SHOW_CLASS_NAME" value="false" />
+    <option name="SHOW_PACKAGE_NAME" value="false" />
+    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+      <option name="showDebuggerOnBreakpoint" value="false" />
+    </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration doNotStepIntoLibraryCode="false">
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="python">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <option name="simplifiedView" value="false" />
+          <option name="valuesPolicy" value="SYNC" />
         </configuration>
       </debugger>
     </debuggers>

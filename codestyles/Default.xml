@@ -1,6 +1,8 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="70" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+  <option name="SOFT_MARGINS" value="70" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -8,6 +10,22 @@
     <option name="ALIGN_CLOSING_BRACE_WITH_PROPERTIES" value="true" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </CssCodeStyleSettings>
+  <DB2CodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ALIGN_TEXT" value="true" />
@@ -46,6 +64,50 @@
       </value>
     </option>
   </JetCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="1" />
+    <option name="SUBQUERY_CLOSING" value="1" />
+    <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="ORDER_EL_WRAP" value="1" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </SQLiteCodeStyleSettings>
+  <SqlCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="5">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </SybaseCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
@@ -68,9 +130,10 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="96" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -79,6 +142,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
@@ -94,19 +158,28 @@
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="999" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />

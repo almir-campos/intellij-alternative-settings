@@ -1,25 +1,13 @@
 <application>
   <component name="libraryTable">
     <library name="angular" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular.js" />
-      </CLASSES>
+      <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="angular-resource" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular-resource.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.7_angular-resource.js" />
-      </CLASSES>
+      <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="axios-0-21-0" type="javaScript">
@@ -31,6 +19,12 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.nvm/versions/node/v12.18.4/lib/node_modules/axios" />
       </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="jquery-3.3.1" type="javaScript">
@@ -44,14 +38,16 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.nvm/versions/node/v12.18.4/lib/node_modules/jquery" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.8 interpreter library">
+    <library name="Python 3.8 (appt-env) interpreter library">
       <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-1199943125" />
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/python/flask/appt/appt-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/585018281" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -59,11 +55,206 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-1199943125" />
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/python/flask/appt/appt-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/585018281" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (fast-flask) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/fast-flask/fast-flask-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1164805" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/fast-flask/fast-flask-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1164805" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (fast-flask-v2) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/fast-flask-v2/fast-flask-v2-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-522095179" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/fast-flask-v2/fast-flask-v2-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-522095179" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (fast-flask-v3) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/fast-flask-v3/fast-flask-v3-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-1021313229" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/fast-flask-v3/fast-flask-v3-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-1021313229" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (simple-form-dev) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/simple-form/simple-form-dev/simple-form-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-2059560442" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/simple-form/simple-form-dev/simple-form-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-2059560442" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (simple-form-tests) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/simple-form/simple-form-tests/simple-form-tests-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-83977363" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/code/extensions/python/simple-form/simple-form-tests/simple-form-tests-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-83977363" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (warbler-env) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/courses/spb/unit-26/project/warbler/warbler-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1029437526" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/my/configs/home/.local/share/JetBrains/IntelliJIdea2020.3/python/helpers" />
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/my/courses/spb/unit-26/project/warbler/warbler-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1029437526" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 interpreter library">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
