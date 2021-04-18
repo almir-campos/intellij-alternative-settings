@@ -128,9 +128,11 @@
     <entry key="database.postgres.introspect.system.schemas" value="true" />
     <entry key="database.debug.trace" value="true" />
     <entry key="compiler.document.save.enabled" value="true" />
-    <entry key="bigger.font.in.project.view" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="ide.hide.cursor.when.typing" value="false" />
+    <entry key="ide.find.use.editor.font" value="true" />
+    <entry key="new.search.everywhere.font.size.delta" value="0.5" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
